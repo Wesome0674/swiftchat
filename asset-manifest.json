@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/swiftchat/static/css/main.cca0b97e.css",
+    "main.js": "/swiftchat/static/js/main.76046c82.js",
+    "index.html": "/swiftchat/index.html",
+    "main.cca0b97e.css.map": "/swiftchat/static/css/main.cca0b97e.css.map",
+    "main.76046c82.js.map": "/swiftchat/static/js/main.76046c82.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cca0b97e.css",
+    "static/js/main.76046c82.js"
+  ]
+}
