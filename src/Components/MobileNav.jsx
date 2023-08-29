@@ -12,7 +12,7 @@ const MobileNav = () => {
       try {
         await signOut(auth)
         setNav(false)
-        navigate("/")
+        navigate("/chatapp")
       } catch (error) {
         alert("for some reasons we can't deconnect, please check your internet connection")
         console.log(error);

@@ -15,7 +15,7 @@ function App() {
     <div className="App font-body bg-neutral-800 dark:bg-white transition-colors duration-200  ">
       <MobileNav />
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/chatapp" element={<Home />} />
         <Route path="/signup" element={<SignUp />} />
         <Route path="/login" element={<LogIn />} />
         <Route path="/private" element={<Private />}>
