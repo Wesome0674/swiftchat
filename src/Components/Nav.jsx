@@ -13,7 +13,7 @@ const Nav = () => {
     const logOut = async () => {
       try {
         await signOut(auth)
-        navigate("/chatapp")
+        navigate("/")
       } catch (error) {
         alert("for some reasons we can't deconnect, please check your internet connection")
         console.log(error);

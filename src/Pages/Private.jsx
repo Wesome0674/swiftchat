@@ -8,7 +8,7 @@ const Private = () => {
     console.log("PRIVATE", currentUser);
 
     if (!currentUser){
-        return <Navigate to={"/"} />
+        return <Navigate to={"/chatapp"} />
     }
 
   return (
