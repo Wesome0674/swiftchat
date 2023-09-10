@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/swiftchat/static/css/main.cca0b97e.css",
-    "main.js": "/swiftchat/static/js/main.76046c82.js",
+    "main.css": "/swiftchat/static/css/main.90839ce3.css",
+    "main.js": "/swiftchat/static/js/main.9b6ab5e1.js",
     "index.html": "/swiftchat/index.html",
-    "main.cca0b97e.css.map": "/swiftchat/static/css/main.cca0b97e.css.map",
-    "main.76046c82.js.map": "/swiftchat/static/js/main.76046c82.js.map"
+    "main.90839ce3.css.map": "/swiftchat/static/css/main.90839ce3.css.map",
+    "main.9b6ab5e1.js.map": "/swiftchat/static/js/main.9b6ab5e1.js.map"
   },
   "entrypoints": [
-    "static/css/main.cca0b97e.css",
-    "static/js/main.76046c82.js"
+    "static/css/main.90839ce3.css",
+    "static/js/main.9b6ab5e1.js"
   ]
 }
